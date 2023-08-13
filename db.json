@@ -1,0 +1,46 @@
+{
+    "posts": [
+        {
+            "title": "Tree",
+            "image": "https://cdn.naturettl.com/wp-content/uploads/2021/05/14135435/How-to-Photograph-Minimalist-Landscapes_-7-800x534.jpg",
+            "desc": "I love watermelon 123",
+            "like": true,
+            "id": 1
+        },
+        {
+            "title": "sea",
+            "image": "https://d3hnfqimznafg0.cloudfront.net/images/Article_Images/ImageForArticle_227_15820269818147731.png",
+            "desc": "12",
+            "like": false,
+            "id": 2
+        },
+        {
+            "title": "12",
+            "image": "https://d3hnfqimznafg0.cloudfront.net/images/Article_Images/ImageForArticle_227_15820269818147731.png",
+            "desc": "1",
+            "like": false,
+            "id": 3
+        },
+        {
+            "title": "2",
+            "image": "https://d3hnfqimznafg0.cloudfront.net/images/Article_Images/ImageForArticle_227_15820269818147731.png",
+            "desc": "12",
+            "like": false,
+            "id": 4
+        },
+        {
+            "title": "12",
+            "image": "https://d3hnfqimznafg0.cloudfront.net/images/Article_Images/ImageForArticle_227_15820269818147731.png",
+            "desc": "3",
+            "like": false,
+            "id": 5
+        },
+        {
+            "title": "12",
+            "image": "https://d3hnfqimznafg0.cloudfront.net/images/Article_Images/ImageForArticle_227_15820269818147731.png",
+            "desc": "12",
+            "like": false,
+            "id": 6
+        }
+    ]
+}

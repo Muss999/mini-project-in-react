@@ -1,0 +1,19 @@
+.input-div {
+    width: 60%;
+}
+.input-div-parent {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.btn-outline-success {
+    width: 150px;
+}
+.inputs-bg {
+    background-color: #66a5ad !important;
+    border: none !important;
+}
+label {
+    background-color: transparent !important;
+}

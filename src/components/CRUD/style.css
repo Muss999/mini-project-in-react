@@ -1,0 +1,27 @@
+.card-div {
+    background-color: #003b46 !important;
+    width: 25%;
+}
+.postList-div {
+    margin-top: 70px;
+}
+.card-btn-details {
+    background-color: #1c7074 !important;
+    color: #003b46 !important;
+    color: #c4dfe6 !important;
+}
+.card-btn-edit {
+    background-color: #1a888e !important;
+    color: #003b46 !important;
+    color: #c4dfe6 !important;
+}
+.card-btn-delete {
+    background-color: #156468 !important;
+    color: #c4dfe6 !important;
+}
+.card-btns {
+    width: 100px !important;
+}
+.h2-inline {
+    display: inline;
+}
